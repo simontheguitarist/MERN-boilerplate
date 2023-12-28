@@ -1,6 +1,6 @@
-# Expense Tracker
+# BAsic MERN Boilerplate
 
-This is my first App built with REACT on the quest of learning the MERN stack.
+a boilerplate to make my life easier
 
 ## MERN stack
 
